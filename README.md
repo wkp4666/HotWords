@@ -1,4 +1,17 @@
 HotWords
 ========
+##统计日志文件中的词汇出现的次数
 
-在文件中找到hot words 并记录
+##主要技术有：   
+
+
+*erlang                       
+*mapreduce     
+*mochiweb 框架
+
+
+
+##实现原理：
+
+
+##主要作用：u
