@@ -1,0 +1,9 @@
+{application,map,
+             [{description,"map"},
+              {vsn,"0.1"},
+              {modules,[lib_find,lib_misc,map,map_app,map_deps,map_sup,
+                        map_web,phofs,test_mapreduce]},
+              {registered,[]},
+              {mod,{map_app,[]}},
+              {env,[]},
+              {applications,[kernel,stdlib,crypto]}]}.

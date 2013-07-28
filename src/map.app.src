@@ -1,0 +1,9 @@
+%% -*- erlang -*-
+{application, map,
+ [{description, "map"},
+  {vsn, "0.1"},
+  {modules, []},
+  {registered, []},
+  {mod, {'map_app', []}},
+  {env, []},
+  {applications, [kernel, stdlib, crypto]}]}.
